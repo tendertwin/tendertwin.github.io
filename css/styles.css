@@ -1,13 +1,21 @@
 body {
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif;
 }
 
 header {
-    background-color: #222;
-    color: #fff;
-    padding: 20px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
 }
 
 nav ul {
@@ -17,38 +25,14 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 20px; /* Adjust spacing between menu items */
+}
+
+nav ul li:last-child {
+    margin-right: 0; /* Remove margin from the last menu item */
 }
 
 nav ul li a {
-    color: #fff;
     text-decoration: none;
-}
-
-.hero {
-    background-image: url('images/ocean_background.jpg'); /* Updated path */
-    background-size: cover;
-    color: #fff;
-    text-align: center;
-    padding: 100px 0;
-}
-
-.btn {
-    display: inline-block;
-    background-color: #FF4500; /* Orange */
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.content {
-    padding: 50px;
-}
-
-footer {
-    background-color: #222;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
+    color: #000; /* Adjust color of menu items */
 }
