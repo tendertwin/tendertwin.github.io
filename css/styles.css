@@ -42,3 +42,40 @@ nav ul li a {
     color: #000; /* Adjust color of menu items */
 }
 
+.iframe-container {
+    display: flex;
+    flex-direction: column;
+}
+
+iframe {
+    width: 60%;
+    margin: 1em auto;
+}
+
+.about-p {
+    width: 60%;
+    margin: auto;
+    text-align: justify
+}
+
+
+.showlist {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    text-align: left;
+    margin: auto;
+ }
+
+.show {
+    margin-bottom: 2em;
+}
+
+.show h2,
+.show h3,
+.show p {
+    margin: 0; /* Remove margin */
+    padding: 0; /* Remove padding */
+}
+

@@ -1,0 +1,25 @@
+FEATURES TO ADD: 
+
+CONTENT:
+    HOME PAGE: 
+     - embedded video [https://www.youtube.com/watch?v=D55LZXJ1D4Y&ab_channel=Tendertwin]
+     - embedded music
+        spotify [https://open.spotify.com/artist/3yewZRic9F35N4P1yO1Qj6?si=XDHJuueVR1ihRSUMOEGjvQ]
+        bandcamp [https://tendertwin.bandcamp.com/]
+
+    ABOUT: 
+        Nurtured transatlantic, Tendertwin is a forager for half-lived stories. Born in Istanbul, Bilge Nur Yilmaz's distinctive voice subtly soaks up Turkey’s rich musical heritage from the lapping tides of the Black Sea and Mediterranean, and filters it through drifting time spent in Philadelphia, Oxford, and London — a familiar folk sound with an industrial glitch where landscapes are entangled in ambient sounds, wrong-footing melodies and unpredictable arrangements
+
+    CONTACT: 
+        - link to join mailing list
+        - message form
+
+    TOUR DATES:
+        - list of upcoming shows
+
+    MERCH: 
+        - link to merch site
+
+STYLE
+    - MaestroTimes
+
